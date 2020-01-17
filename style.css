@@ -30,7 +30,18 @@ text-decoration:line-through;
     text-indent: -19px;
 }
 
-body:first-letter{
-    font-size: 100%;
-    color: darkorange;
+a:link{
+    color: darkseagreen;
+}
+a:visited{
+    color: dimgrey;
+}
+a:hover{
+    color: gold;
+}
+a:active{
+    color: hotpink;
+}
+#lol:focus{
+    color:rgb(164, 197, 156);
 }
